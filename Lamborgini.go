@@ -2,21 +2,21 @@ package main
 
 import "strconv"
 
-type Ferrari struct {
+type Lamborgini struct {
 	//Kalıtım alma
 	Araba
 	OzelUretim
 }
 
-func (_ Ferrari) Calis() bool {
+func (_ Lamborgini) Calis() bool {
 	return true
 }
 
-func (_ Ferrari) Dur() bool {
+func (_ Lamborgini) Dur() bool {
 	return true
 }
 
-func (x *Ferrari) Information() string {
+func (x *Lamborgini) Information() string {
 	ret := "\t" + x.Marka + "\n" + x.Model + "\n" + x.Renk + "\n" + strconv.Itoa(x.Hiz) + "\n" + strconv.Itoa(x.Fiyat)
 	add := "Yes"
 	if x.Ozel {

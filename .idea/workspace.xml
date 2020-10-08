@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e831fe9f-e9e8-40e5-9a2c-c10e3d766231" name="Default Changelist" comment="" />
+    <list default="true" id="e831fe9f-e9e8-40e5-9a2c-c10e3d766231" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Araba.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ferrari.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ferrari.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,26 +75,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="860" height="280" key="GridCell.Tab.0.bottom" timestamp="1601763585168">
+    <state width="874" height="280" key="GridCell.Tab.0.bottom" timestamp="1601848017944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="860" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601763585168" />
-    <state width="860" height="280" key="GridCell.Tab.0.center" timestamp="1601763585167">
+    <state width="874" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601848017944" />
+    <state width="874" height="280" key="GridCell.Tab.0.center" timestamp="1601848017944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="860" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601763585167" />
-    <state width="860" height="280" key="GridCell.Tab.0.left" timestamp="1601763585167">
+    <state width="874" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601848017944" />
+    <state width="874" height="280" key="GridCell.Tab.0.left" timestamp="1601848017944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="860" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601763585167" />
-    <state width="860" height="280" key="GridCell.Tab.0.right" timestamp="1601763585167">
+    <state width="874" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601848017944" />
+    <state width="874" height="280" key="GridCell.Tab.0.right" timestamp="1601848017944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="860" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601763585167" />
+    <state width="874" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601848017944" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1601836583765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601836583765" />
+    <state x="52" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601848006946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="52" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601848006946" />
   </component>
 </project>
